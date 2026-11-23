@@ -1,0 +1,10 @@
+C:\Users\KPC\Desktop\repos\KeremGoldagiLabSection1Exam\KeremGoldagiLabSection1Exam\bin\Debug\KeremGoldagiLabSection1Exam.exe.config
+C:\Users\KPC\Desktop\repos\KeremGoldagiLabSection1Exam\KeremGoldagiLabSection1Exam\bin\Debug\KeremGoldagiLabSection1Exam.exe
+C:\Users\KPC\Desktop\repos\KeremGoldagiLabSection1Exam\KeremGoldagiLabSection1Exam\bin\Debug\KeremGoldagiLabSection1Exam.pdb
+C:\Users\KPC\Desktop\repos\KeremGoldagiLabSection1Exam\KeremGoldagiLabSection1Exam\obj\Debug\KeremGoldagiLabSection1Exam.csproj.AssemblyReference.cache
+C:\Users\KPC\Desktop\repos\KeremGoldagiLabSection1Exam\KeremGoldagiLabSection1Exam\obj\Debug\KeremGoldagiLabSection1Exam.Properties.Resources.resources
+C:\Users\KPC\Desktop\repos\KeremGoldagiLabSection1Exam\KeremGoldagiLabSection1Exam\obj\Debug\KeremGoldagiLabSection1Exam.csproj.GenerateResource.cache
+C:\Users\KPC\Desktop\repos\KeremGoldagiLabSection1Exam\KeremGoldagiLabSection1Exam\obj\Debug\KeremGoldagiLabSection1Exam.csproj.CoreCompileInputs.cache
+C:\Users\KPC\Desktop\repos\KeremGoldagiLabSection1Exam\KeremGoldagiLabSection1Exam\obj\Debug\KeremGoldagiLabSection1Exam.exe
+C:\Users\KPC\Desktop\repos\KeremGoldagiLabSection1Exam\KeremGoldagiLabSection1Exam\obj\Debug\KeremGoldagiLabSection1Exam.pdb
+C:\Users\KPC\Desktop\repos\KeremGoldagiLabSection1Exam\KeremGoldagiLabSection1Exam\obj\Debug\KeremGoldagiLabSection1Exam.frmGoldagiExam1Lab.resources
